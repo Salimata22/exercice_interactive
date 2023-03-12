@@ -34,7 +34,7 @@ body{
 }
 
 .icon{
-    background-color:  hsl(216, 12%, 54%) ;
+    background-color:  hsl(217, 12%, 63%) ;
     width: 35px;
     height: 35px;
     border-radius: 3rem;
@@ -56,7 +56,7 @@ li{
     list-style: none;
     width: 35px;
     height: 35px;
-    background-color: hsl(216, 12%, 54%);
+    background-color: hsl(217, 12%, 63%);
     border-radius: 3rem;
     display: flex;
     justify-content: center;
