@@ -1,0 +1,96 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Fraunces:opsz,wght@9..144,700&family=Overpass:wght@400;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Overpass', sans-serif;
+    background-color: hsl(216, 12%, 8%);
+    
+}
+
+.container{
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: space-between;
+    border-radius: 2rem;
+    
+    background-color: hsl(213, 19%, 18%);
+   
+    
+}
+
+.icon{
+    background-color:  hsl(216, 12%, 54%) ;
+    width: 35px;
+    height: 35px;
+    border-radius: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    height: 40px;
+    color: hsl(0, 0%, 100%);
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    width: 35px;
+    height: 35px;
+    background-color: hsl(216, 12%, 54%);
+    border-radius: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: hsl(216, 12%, 54%) ;
+
+}
+
+h4{  
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3rem;
+    background-color: hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
